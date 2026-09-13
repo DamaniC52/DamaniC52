@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Damani! 👋
 
 I'm a CS student at Brooklyn College (expected Spring 2028)
